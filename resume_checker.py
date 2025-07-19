@@ -9,8 +9,7 @@ Original file is located at
 
 
 
-!pip install gradio pdf2image pytesseract nltk matplotlib PyMuPDF
-!apt-get install -y poppler-utils
+
 
 #Import Libraries and setup
 import gradio as gr
